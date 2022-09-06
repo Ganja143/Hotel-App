@@ -1,0 +1,120 @@
+body{
+    background-image: url("../images/f2f48ca73c9e0c78762cc428481cf862.jpg");
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    font-family: 'Kaushan Script','Wendy One', sans-serif;
+}
+form{
+    position: relative;
+}
+.cover1{
+
+    position: relative;
+    width: 120%;
+    height: 1050px;;
+    opacity:0.8;
+    top: -10px;
+    left: -10px;
+    font-style: normal;
+    font-size: 26px;
+    font-weight: bold;
+    background-color: rgb(20, 18, 19);
+}
+.in {
+    
+    position:relative;
+    font-family: 'Didact Gothic', sans-serif;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 16px;
+    margin: -25px 0 0 0px;
+    padding: 10px 0px;
+    width: 100%; 
+    left:600px;
+    top: 250px;
+    width: 600px;
+    font-weight: bold;
+
+}
+.in1 {
+    position:relative;
+    font-family: 'Didact Gothic', sans-serif;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 16px;
+    margin: -25px 0 0 0px;
+    padding: 10px 0px;
+    width: 100%; 
+    left:600px;
+    top: 300px;
+    width: 600px;
+    font-weight: bold;
+
+}
+   
+.in:focus {
+      outline: none; }
+.in:focus::-webkit-input-placeholder {
+
+    color: #fdfcfc; 
+    }
+.in:focus + .underline {
+        transform: scale(1);
+     }
+
+.in1:focus {
+        outline: none;
+     }
+.in1:focus::-webkit-input-placeholder {
+  
+          color: #fdfcfc; 
+      }
+.in:focus + .underline {
+        transform: scale(1);
+     }
+
+.btn{
+    position: relative;
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: 700;
+    width: 400px;
+    height: 40px;
+    background-color: rgb(20, 140, 238);
+    left: 750px;
+    top: 400px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+
+     }
+     .btn1{
+        position: relative;
+        font-family: 'Didact Gothic', sans-serif;
+        font-weight: 700;
+        width: 400px;
+        height: 40px;
+        left: 370px;
+        top: 405px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+    
+    
+         }
+p{
+    position: relative;
+    left: 750px;
+    top: 410px;
+    color: white;
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

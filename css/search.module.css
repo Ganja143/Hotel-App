@@ -1,0 +1,60 @@
+.bo{
+    background-image: url("../images/i8.jpg");
+}
+.container{
+    position: relative;
+    width: 120%;
+    height: 1050px;;
+    opacity:0.8;
+    top: -10px;
+    left: -10px;
+    font-style: normal;
+    font-size: 26px;
+    font-weight: bold;
+    background-color: rgb(145, 141, 143);
+ 
+
+}
+.flexStuff{
+
+    position: sticky;
+    justify-content: space-between;
+    z-index: 1;
+    left: 200px;
+    height: 65px;
+    background-color: rgb(109, 12, 12);
+   
+}
+.link1{
+    position:relative;
+    font-size: 30px;
+    top: 10px;
+    font:bold;
+    color:rgb(219, 206, 20);
+    font-style: italic;
+    text-underline-position:above;
+    left: 1250px;
+    text-decoration: none;
+}
+.link2{
+    position:relative;
+    font-size: 30px;
+    top: 10px;
+    font:bold;
+    color:rgb(219, 206, 20);
+    font-style: italic;
+    text-underline-position:above;
+    left: 1300px;
+    text-decoration: none;
+}
+.link3{
+     position:relative;
+    font-size: 30px;
+    top: 10px;
+    font:bold;
+    color:rgb(219, 206, 20);
+    font-style: italic;
+    text-underline-position:above;
+    left: 1350px;
+    text-decoration: none;
+}
